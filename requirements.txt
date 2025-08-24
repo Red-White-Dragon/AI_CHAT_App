@@ -1,0 +1,11 @@
+flet==0.28.3
+flet_route==0.3.3
+#flet-runtime==0.24.1
+#flet-desktop==0.28.3
+#flet-cli==0.28.3
+#python-dotenv==1.1.1
+#pyinstaller==6.15.0
+#psutil==7.0.0
+requests==2.32.4
+#asyncio==4.0.0
+#pillow==11.3.0
